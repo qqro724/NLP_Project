@@ -22,7 +22,7 @@
   구성원 🤸🏻‍♀️
 </h2>
 <p dir="auto">
-  <em>알파코 5기 3조</em>
+  <em>알파코 7기 1조_ 파워레인저 team</em>
 </p>
 <table>
   <thead>
@@ -72,7 +72,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>프로젝트 설명</title>
 </head>
 <body>
     <h1>프로젝트 설명</h1>
